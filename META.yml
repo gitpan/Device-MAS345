@@ -1,0 +1,15 @@
+--- #YAML:1.0
+name:                Device-MAS345
+version:             0.01
+abstract:            Reading the Mastech MAS-345 Multimeter
+license:             ~
+generated_by:        ExtUtils::MakeMaker version 6.31
+distribution_type:   module
+requires:     
+    Device::SerialPort:            1
+    Log::Log4perl:                 1
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
+    version: 1.2
+author:
+    - Mike Schilli <cpan@perlmeister.com>
