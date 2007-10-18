@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Device-MAS345
-version:             0.01
+version:             0.02
 abstract:            Reading the Mastech MAS-345 Multimeter
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.31
